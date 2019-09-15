@@ -18,5 +18,5 @@ This repository is intended for hiring managers who wish to get a deeper look at
 4. **delay:** _Delay using 2-bit I/O configuration._
 
 **C language folder**
-1. **led:** _Blink the LED on (Digital Output 13) every second in C language._
-2. **motor_angle** _Using PWN (Pulse Width Modulation), the microcomputer will read voltage (from 0 to 5 V) to rotate to maximum and minimum angle on servo motor._
+1. **led:** _Blink the LED on (Digital Output 13) every second, in C language._
+2. **motor_angle** _Using PWM (Pulse Width Modulation), the microcomputer will read voltage (from 0 to 5 V) to rotate to maximum and minimum angle on servo motor._
