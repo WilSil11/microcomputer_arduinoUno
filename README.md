@@ -5,10 +5,6 @@ This repository is comprised of code in assembly and C languages for projects co
 
 **Please Note: This repository is work in progress! Changes can and _will_ occur! This code and documentation is a demonstration of personal projects.**
 
-## About
-
-This repository is intended for hiring managers who wish to get a deeper look at my competencies and coding style for working with [Arduino UNO R3](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg). Different tasks have been written in assembly and c languages to demonstrate range/versatility of skill set.
-
 ## Directory Descriptions:
 
 **asm folder**
